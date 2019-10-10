@@ -1,0 +1,20 @@
+{
+  "name": "balumuca",
+  "version": "1.0.0",
+  "description": "Blog criado em nodejs, trata sobre assuntos de tecnologias e desposrtos, duas paixoes do Musk",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.3.1",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "mongoose": "^5.7.1",
+    "nodemon": "^1.19.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Musk Isai",
+  "license": "ISC"
+}
